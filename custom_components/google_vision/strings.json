@@ -1,0 +1,9 @@
+{
+  "title": "Google Vision meter value detection",
+  "services": {
+    "scan": {
+      "name": "Scan",
+      "description": "Processes an image immediately."
+    }
+  }
+}
